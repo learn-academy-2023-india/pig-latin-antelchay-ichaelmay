@@ -73,6 +73,9 @@ To get started, find the `myPigLatinCodeHere` function, and write your code. Eve
 - Can hit the submit button
 - Can see the words that begin with a vowel translated to Pig Latin and rendered to the page (e.g. appleway)
 
+**OUR PLAN**
+- by using a built in method add -way to the array as needed.
+
 **Story 2**: In order to see English words converted to Pig Latin, as the user of the application, I need to see words that have "qu" in the first syllable translated by moving all the consonants and the "u" to the end and adding "ay".
 
 **Branch:** qu-functionality
